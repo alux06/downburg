@@ -1,2 +1,34 @@
 # downburg
-Free online tools: JPG to WEBP converter, HTML formatter, CSS formatter, MX lookup, DNS lookup, IP to hostname, HTML encoder and 100+ more utilities. Free, no signup. https://downburg.com
+# Downburg — Free Online Tools & Utilities
+
+100+ free online tools for developers and everyday users.
+No signup required. Works in your browser.
+
+🔗 **Website:** https://downburg.com
+
+## Tools available
+
+- JPG to WEBP converter
+- HTML Formatter & Beautifier
+- CSS Formatter & Beautifier  
+- MX Record Lookup
+- DNS Lookup
+- IP to Hostname (Reverse DNS)
+- HTML Entity Encoder/Decoder
+- URL Encoder/Decoder
+- Base64 Encoder/Decoder
+- Password Generator
+- QR Code Generator
+- Image Compressor
+- And 90+ more tools...
+
+## Categories
+
+- Image Tools
+- Network Tools
+- Encoding Tools
+- Text Tools
+- Developer Tools
+- Security Tools
+
+Visit **https://downburg.com** to use all tools for free.
